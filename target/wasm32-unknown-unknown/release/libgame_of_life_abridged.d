@@ -1,0 +1,1 @@
+C:\Users\kiran\Desktop\Projects\game-of-life-abridged\target\wasm32-unknown-unknown\release\libgame_of_life_abridged.rlib: C:\Users\kiran\Desktop\Projects\game-of-life-abridged\src\lib.rs C:\Users\kiran\Desktop\Projects\game-of-life-abridged\src\utils.rs
